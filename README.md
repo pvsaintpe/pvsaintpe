@@ -47,6 +47,7 @@ Resistant to stress.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
@@ -59,6 +60,8 @@ Resistant to stress.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/coverallsio/coverallsio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/codeclimate/codeclimate-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vimeo/vimeo-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/neteller/neteller-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/skrill/skrill-ar21.svg"></code>
